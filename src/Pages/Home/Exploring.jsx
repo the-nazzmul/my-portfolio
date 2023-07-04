@@ -17,7 +17,7 @@ const Exploring = () => {
 
             <div className="lg:flex justify-center gap-12">
                 {/* Next js */}
-                <div data-aos="flip-down" className="card dark:text-white bg-base-100 dark:bg-gray-500 shadow-xl">
+                <div data-aos="flip-down" className="card dark:text-white bg-base-100 dark:bg-gray-500 shadow-xl mb-4">
                     <figure className="px-10 pt-10 hover:scale-110 duration-300 ease-linear transition-transform">
                         <img src={next} alt="next.js logo" className="rounded-xl h-[200px]" />
                     </figure>
